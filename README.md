@@ -61,12 +61,3 @@ Le tableau de bord Power BI inclut :
 🎯 **Réalisé par** : *Asmaa Oualidi*  
 📅 **Année** : 2025 
 
-## 📌 Comment l’ajouter à ton projet GitHub ?
-1️⃣ Crée un fichier README.md dans ton dossier de projet
-2️⃣ Copie-colle le contenu ci-dessus dans ce fichier
-3️⃣ Ajoute et pousse ton projet sur GitHub en utilisant ces commandes :
-
-'''powershell'''
-  git add README.md
-  git commit -m "Ajout du README avec la documentation du projet"
-  git push
